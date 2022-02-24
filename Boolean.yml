@@ -1,0 +1,6 @@
+  employee-detail_kanpur:
+
+    -name: Sundar lal
+    employee_id : 128765
+    monthly_salary: 70k
+    Leave: yes/no    #boolean define

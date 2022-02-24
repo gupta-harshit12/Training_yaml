@@ -1,0 +1,10 @@
+ --- #more about list
+ 
+  employee-detail_kanpur:
+
+    -name: Sundar lal
+    employee_id : 128765
+    monthly_salary: 70k
+    Email_id : #list inside list
+     - sundarlal@gmail.com
+     - sundarlal@afpl.com 

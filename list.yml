@@ -1,3 +1,33 @@
---- #creation of a list
+ #creation of a list
 
-  
+  employee-detail_kanpur:
+
+    -name: Sundar lal
+    employee_id : 128765
+    monthly_salary: 70k
+
+    -name: shubham mishra
+     employee_id : 12221
+     monthly_salary: 80k
+
+     
+  employee-detail_delhi:
+
+    -name: sonam kapoor
+    employee_id : 6789
+    monthly_salary: 30k
+
+    -name: shikhar
+     employee_id : 76532
+     monthly_salary: 10k
+
+     
+  employee-detail_gujrat:
+
+    -name: Piyush Bansal
+    employee_id : 98765
+    monthly_salary: 20k
+
+    -name: Mahesh Pal
+    employee_id : 145632
+    monthly_salary: 29k
