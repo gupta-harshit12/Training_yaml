@@ -1,0 +1,8 @@
+--- #OBJECT CREATION
+
+employee-detail:
+
+  name: Sundar lal
+  employee_id : 128765
+  location: kanpur
+  monthly_salary: 70k

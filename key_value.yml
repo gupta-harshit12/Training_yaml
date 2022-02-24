@@ -1,0 +1,10 @@
+--- #Initalizing of the YAML
+
+Organisation_name: AFPL
+Number_of_employee: 12000
+city: Kanpur
+State: Uttar Pradesh
+Government_issued_id: 123456
+Turn_over: 1.2cr
+
+... #END OF THE YAML
